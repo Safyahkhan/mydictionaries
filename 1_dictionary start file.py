@@ -177,6 +177,7 @@ print()
 print()
 print('*****  start section 9 - using random and converting to list ********')
 print()
+print()
 
 #random doesnt work with dictionaries 
 #one way to work
