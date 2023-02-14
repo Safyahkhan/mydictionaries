@@ -13,12 +13,17 @@ sampleDict = {
    }
 }
 
+score = sampleDict["class"]["student"]["marks"]["history"]
+print(score)
 
-
-
+"""""
 # 2) Add 2 inches to the son's height.
 
 dict={"son's name": "Lucas", "son's eyes": "green", "son's height": 32, "son's weight": 25}
+dict_height = dict["son's height"] + 2
+print(dict_height)
+print(dict["son's height"+2]
+   
 
 
 
@@ -41,5 +46,4 @@ sampleDict = {
 #       "work": ["Apology", "Phaedo", "Republic", "Symposium"]
 
 dict={"name": "Plato", "country": "Ancient Greece", "born": -427, "teacher": "Socrates", "student": "Aristotle"}
-
-
+"""
